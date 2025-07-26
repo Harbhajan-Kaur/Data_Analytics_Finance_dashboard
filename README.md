@@ -4,9 +4,13 @@ This Power BI dashboard provides a comprehensive visualization of a company’s 
 
 Key Features
 Total Sales: $118.73M
+
 Total Cost of Goods Sold (COGS): $101.83M
+
 Profit %: 16.59%
+
 Profit Margin: 14.23%
+
 Average Units Sold: 1.61K
 
 Visualizations
